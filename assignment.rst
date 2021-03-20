@@ -1,5 +1,3 @@
-.. Minimal change, to satisfy 'make assignment-pack'
-
 ..
     Note for teaching assistants, you may find this introduction to reStructuredText useful:
 

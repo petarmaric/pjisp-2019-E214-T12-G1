@@ -1,5 +1,3 @@
-# Minimal change, to satisfy 'make assignment-pack'
-
 # When comparing the program output against expected output any line that
 # doesn't end with a number is going to be ignored
 

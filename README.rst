@@ -4,6 +4,12 @@
    :alt: CPython build status on GitHub Actions
    :target: https://github.com/petarmaric/pjisp-2019-E214-T12-G1/actions
 
+|Actions Status|
+  
+.. |Actions Status| image:: https://github.com/petarmaric/pjisp-2019-E214-T12-G1/workflows/PJISP%20assignment/badge.svg
+   :alt: CPython build status on GitHub Actions
+   :target: https://github.com/petarmaric/pjisp-2019-E214-T12-G1/actions
+
 About
 =====
 

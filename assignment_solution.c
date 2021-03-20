@@ -1,4 +1,3 @@
-// Minimal change, to satisfy 'make assignment-pack'
 #include <stdio.h>
 #include <math.h>
 
